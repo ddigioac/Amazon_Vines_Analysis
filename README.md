@@ -9,16 +9,22 @@ In this analysis I will be examining a dataset that contains reviews of baby pro
 
 ## Amazon Vine Analysis Results
 
-- How many Vine reviews and non-Vine reviews were there?
+- **How many Vine reviews and non-Vine reviews were there?**
+
 Non-Vine reviews: 25,094
+
 Vine reviews: 463
  
-- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+- **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
+
 Non-Vine 5-star reviews: 12,235
+
 Vine 5-star reviews: 202
 
-- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+- **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
+
 Non-Vine 5-star review percentage: 48.76%
+
 Vine 5-star review percentage: 43.63%
 
 ## Amazon Vine Summary
